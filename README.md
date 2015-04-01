@@ -1,6 +1,9 @@
 # SMTPSimulator
 计算机网络 课程实验 SMTP客户端、服务端的简易实现
 
+# 编译
+由于form使用了Idea uidesigner设计，故请使用Idea进行编译。
+
 ## 实验具体内容
 >实验四 发送邮件
 
